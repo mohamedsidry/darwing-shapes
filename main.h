@@ -8,4 +8,6 @@
 
 void draw_square(int,char);
 
+void draw_left_triangle(int,char);
+
 #endif
