@@ -12,6 +12,7 @@
 int main(void)
 {
   /* Functions should be here*/
+  draw_square(5,'0');
 
   
   return (0);

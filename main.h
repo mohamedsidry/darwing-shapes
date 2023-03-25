@@ -6,7 +6,6 @@
 
 /*My Functions*/
 
-int draw_square(int);
-
+void draw_square(int,char);
 
 #endif
