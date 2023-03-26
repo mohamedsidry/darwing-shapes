@@ -14,7 +14,8 @@ int main(void)
   /* Functions should be here*/
   /*draw_square(5,'0');*/
   /*draw_left_triangle(5,'#');*/
-  draw_right_triangle(5,'#');
+  /*draw_right_triangle(5,'#');*/
+  draw_to_right_triangle(99,'#');
 
   
   return (0);

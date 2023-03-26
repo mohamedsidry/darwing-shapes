@@ -10,5 +10,6 @@ void draw_square(int,char);
 
 void draw_left_triangle(int,char);
 void draw_right_triangle(int,char);
+void draw_to_right_triangle(int,char);
 
 #endif
